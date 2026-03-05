@@ -22,8 +22,8 @@ CoPaw 是一个**个人 AI 工作台**，你可以：
 
 | 版本 | 适用机型 | 文件大小 | 下载链接 |
 |------|---------|---------|---------|
-| **Apple Silicon (M1/M2/M3/M4)** | MacBook Air/Pro, Mac mini, iMac, Mac Studio (2020年后) | 116 MB | [CoPaw-arm64.dmg](releases/CoPaw-arm64.dmg) |
-| **Intel (x86_64)** | MacBook Air/Pro, iMac, Mac mini, Mac Pro (Intel 处理器) | 118 MB | [CoPaw-x86_64.dmg](releases/CoPaw-x86_64.dmg) |
+| **Apple Silicon (M1/M2/M3/M4)** | MacBook Air/Pro, Mac mini, iMac, Mac Studio (2020年后) | 116 MB | [CoPaw-arm64.dmg](https://github.com/zhaobomin/copaw-macapp/releases/download/v0.0.4/CoPaw-arm64.dmg) |
+| **Intel (x86_64)** | MacBook Air/Pro, iMac, Mac mini, Mac Pro (Intel 处理器) | 118 MB | [CoPaw-x86_64.dmg](https://github.com/zhaobomin/copaw-macapp/releases/download/v0.0.4/CoPaw-x86_64.dmg) |
 
 **如何确认芯片类型**：
 点击屏幕左上角  → "关于本机"
